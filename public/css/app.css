@@ -10899,3 +10899,50 @@ a.text-dark:focus {
   }
 }
 
+body {
+  background-color: #00234f;
+}
+
+nav {
+  height: 60px;
+}
+
+main .cardz {
+  width: 90vw;
+  margin: 30px auto;
+  align-items: center;
+}
+
+main .cardz .card {
+  width: 500px;
+  height: 300px;
+  margin: 10px;
+  padding-bottom: 10px;
+}
+
+main .cardz .card img {
+  height: 250px;
+  width: 250px;
+  margin: 20px 10px 10px;
+  display: inline-block;
+  float: left;
+  border-radius: 50%;
+}
+
+main .cardz .card p {
+  font-size: 14px;
+}
+
+main .cardz .card a {
+  text-decoration: none;
+  color: #0cd977;
+}
+
+main .cardz .card h5 {
+  color: #0cd977;
+}
+
+main .cardz .card h6 {
+  color: #001632;
+}
+

@@ -1,0 +1,34 @@
+main {
+  .cardz {
+    width: 90vw;
+    margin: 30px auto;
+    align-items: center;
+    .card {
+      width: 500px;
+      height: 300px;
+      margin: 10px;
+      padding-bottom: 10px;
+      img {
+        height: 250px;
+        width: 250px;
+        margin: 20px 10px 10px;
+        display: inline-block;
+        float: left;
+        border-radius: 50%;
+      }
+      p {
+        font-size: 14px;
+      }
+      a {
+        text-decoration: none;
+        color: #0cd977;
+      }
+      h5 {
+        color: #0cd977;
+      }
+      h6 {
+        color: #001632;
+      }
+    }
+  }
+}
